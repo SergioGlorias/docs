@@ -1,10 +1,10 @@
 ---
-description: Make sure to read all Terms of Service of DisCloud before host your bot.
+description: É importante ler os Termos de Serviço da DisCloud antes de hospedar seu bot.
 ---
 
-# Terms of Service
+# Termos de Serviço
 
-* Última atualização: 09 de setembro de 2019
+* Última atualização: 25 de novembro de 2019
 * Efetividade: 1 de junho de 2019
 
 Este Termo estabelece as regras para utilização da Plataforma DisCloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
@@ -20,6 +20,10 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 1.2 Você não poderá usar os Serviços da DisCloud se você for uma pessoa impedida de receber os Serviços da DisCloud sob as leis de qualquer país, incluindo o país onde o usuário é residente ou a partir do qual usa os Serviços da DisCloud.
 
 1.3 Você concorda que suas compras de Serviços da DisCloud não estão condicionadas à entrega de qualquer funcionalidade ou futuros recursos, ou dependente de quaisquer comentários públicos orais ou escritos feitas pela DisCloud ou qualquer de suas afiliadas em relação a funcionalidade ou recursos futuros.
+
+1.4 Para usar os Serviços da DisCloud você precisa seguir, aceitar e concordar com nossas [Políticas de uso](https://docs.discloudbot.com/policy), caso contrario está impedido de usar o serviço.
+
+1.5 Esteja ciente que para conseguir utilizar nossos serviços você precisa ser um membro do nosso servidor [Discord ](https://discord.gg/CvxevT5)e possuir um de nossos cargos de verificação como por exemplo; **CloudAccess** ou **English.** A partir do momento que sair do servidor você perde o acesso ao serviço e seus Bots são desligados e removidos.
 
 ## 2. Sua Conta e Utilização dos Serviços da DisCloud
 
@@ -44,6 +48,8 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 4.1 Para todos os recursos e serviços adquiridos por doadores, a cobrança é realizada com base mensal. Os créditos são adicionados de forma pré-paga, através do PayPal e Mercado Pago e cada doação dura 30 dias.
 
 4.2 DisCloud pode alterar o seu plano para o gratuito caso não renove sua doação mensal.
+
+4.3 Você tem o direito de pedir reembolso em até 4 dias após a data de sua doação.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 

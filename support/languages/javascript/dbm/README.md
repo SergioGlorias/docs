@@ -32,6 +32,10 @@ Credits to [Cap](https://discordapp.com/users/293860296542388234) for the tutori
 
 **5.** Finally, compress your bot files into a `.zip`, not your bot folder! Zip together the following files: **actions**, **data**, **fonts**, **resources**, **bot.js** and **package.json**.
 
+{% hint style="danger" %}
+In the last update **1.5.9 of DBM**, there are also extensions and events folders, compress if you use any event or extension in your bot!
+{% endhint %}
+
 ![](../../../../.gitbook/assets/image%20%2842%29.png)
 
 > If you don't know how to compress the files, visit our FAQ:

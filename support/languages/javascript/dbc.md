@@ -12,7 +12,7 @@ Credits to [Vinicio Henrique](https://steempeak.com/@viniciotricolor) for the tu
 
 Open your project by clicking in the name of your project below of **Current projects**.
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2844%29.png)
 
 
 
@@ -24,7 +24,7 @@ Click in **EXPORTS** and export your files of your project **Windows setup** or 
 
 After this will be saved the files of yor bot in one `.zip`.
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 
 
 

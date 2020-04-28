@@ -36,7 +36,7 @@ Credits to [Cap](https://discordapp.com/users/293860296542388234) for the tutori
 In the last update **1.5.9 of DBM**, there are also extensions and events folders, compress if you use any event or extension in your bot!
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../../.gitbook/assets/image%20%2843%29.png)
 
 > If you don't know how to compress the files, visit our FAQ:
 

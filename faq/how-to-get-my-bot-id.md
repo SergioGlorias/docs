@@ -4,7 +4,7 @@
 
 It's simple, active the developer mode in your Discord in `Settings >> Appearence >> Advanced` and active the **Developer mode**.
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2835%29%20%281%29.png)
 
 Press with right button in your bot and in the last option click in **Copy ID**.
 
